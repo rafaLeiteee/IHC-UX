@@ -1,5 +1,11 @@
 # IHC-UX
 Projeto da matéria: Interação Humano Computador &amp; User Experience
+
+Luís Felipe Salgado Mitidieri - 158555
+Felipe Bagnatori Rolim - 133612
+Matheus Felipe Rodrigues - 093943
+Rafael Nascimento do Carmo Leite - 1407
+
 ### Natureza do Projeto
 O presente projeto, desenvolvido no âmbito da disciplina de Interação Humano-Computador e User Experience, visa a concepção de uma plataforma de e-commerce especializada em jogos de tabuleiro e artigos de RPG (Role-Playing Games).
 O mercado de jogos analógicos tem experimentado um crescimento significativo, atraindo um público diverso e engajado. No entanto, as plataformas digitais existentes frequentemente falham em proporcionar uma experiência de usuário satisfatória. A principal lacuna identificada é a dificuldade que os consumidores enfrentam em duas frentes principais: a obtenção de informações claras e detalhadas sobre os produtos e a falta de acessibilidade durante o processo de compra. Muitos sites atuais são visualmente poluídos, de navegação complexa e não atendem às necessidades de usuários com deficiências (visuais, motoras, etc.), tornando a jornada de descoberta e aquisição de um novo jogo uma tarefa frustrante.
