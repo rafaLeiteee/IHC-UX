@@ -2,8 +2,11 @@
 Projeto da matéria: Interação Humano Computador &amp; User Experience
 
 Luís Felipe Salgado Mitidieri - 158555
+
 Felipe Bagnatori Rolim - 133612
+
 Matheus Felipe Rodrigues - 093943
+
 Rafael Nascimento do Carmo Leite - 1407
 
 ### Natureza do Projeto
