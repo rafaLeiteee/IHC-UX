@@ -86,7 +86,25 @@ Desta forma, destaca-se como funcionalidades relevantes:
 - A fácil identificação do produto (regras, tamanho, duração e recomendação de categoria adequada)
 
 #### **Análise de sistemas concorrentes:**
-  <Preencher com as descobertas obtidas na análise dos sistemas concorrentes>
+
+##### Contextualização
+
+Embora os jogos de tabuleiro modernos tenham crescido em popularidade, eles ainda são considerados um produto de nicho. Por esse motivo, é muito raro encontrar uma loja dedicada exclusivamente a eles. Geralmente, esses jogos ou são vendidos em canais de varejo comuns, ou em estabelecimentos especializados em produtos da cultura geek, que agregam itens como RPGs (Dungeons & Dragons), card games (Magic: The Gathering), quadrinhos e mangás, oferecendo um portfólio diversificado para esse público específico.
+
+Para o estudo de caso desse projeto, escolhemos a Devir como experimento.
+
+##### Devir
+
+Fundada em 1987 em São Paulo, a Devir foca na criação de universos de ficção, tornamos acessíveis movimentos culturais que não existiam fora dos países onde foram originalmente criados; procuramos desenvolver os mercados da imaginação e tudo o que diz respeito à fantasia, aventura, ficção científica, jogos e quadrinhos. Somos uma empresa de edição e distribuição de jogos e de publicações para os mercados português, brasileiro e espanhol. Especializados em traduções e adaptações de muitos produtos diferentes, focamo-nos no chamado entretenimento inteligente: jogos de tabuleiros modernos, jogos de RPG, jogos de cartas colecionáveis e de miniaturas, livros e HQs.
+
+Fonte: https://devir.com.br/quem-somos/
+
+##### Acessibilidade
+
+
+
+
+
 
 ### Conclusões:
 Então, os métodos de pesquisa escolhidos de fato representaram uma visão ampla do produto final a ser desenvolvido: tanto no contexto de funcionalidades para o site, quanto no contexto de quem é o usuário final.
