@@ -99,10 +99,34 @@ Fundada em 1987 em São Paulo, a Devir foca na criação de universos de ficçã
 
 Fonte: https://devir.com.br/quem-somos/
 
-##### Acessibilidade
+##### Acesso
+
+As listagens de produtos se encontravam em um dropdown. Essa abordagem consiste em um menu suspenso que, ao ser clicado, revela uma lista com todas as categorias ou itens disponíveis para o usuário escolher. Embora esta não seja mais a prática mais comum para navegação principal em sites complexos (em muitos e-commerces e sistemas antigos esta prática ainda é utilizada), devido a questões de usabilidade, é uma solução simples e amplamente implementada para organizar a oferta de mercadorias em um espaço limitado da tela.
+
+Um ponto positivo significativo dessa estrutura é que todos os produtos estavam em um único lugar. Isso facilita, em certa medida, o trabalho de gestão e atualização do catálogo. Para lojas com um portfólio pequeno e bem definido, essa centralização torna a navegação direta e descomplicada, permitindo que o cliente visse o escopo completo da oferta sem a necessidade de percorrer várias páginas ou seções diferentes do site.
 
 
+<p align="center">
+  <img width="339" height="320" alt="devir1" src="https://github.com/user-attachments/assets/d992b86f-280c-496f-b555-8ef9dd2ff103" />
+  <br><em>Figura 1 - Dropdown de Produtos do Site</em>
+</p>
 
+
+##### Listagem de Produtos
+
+A navegação é confusa na página principal dos produtos relacionados a jogos de tabuleiro, visto que tais produtos são listados em ordem de lançamento ao site. A escolha por esta organização ao invés de categorizar os itens por tipo, função ou popularidade, exige que o usuário percorra uma sequência interminável de itens novos e antigos sem uma lógica aparente. Para encontrar algo específico, o cliente é forçado a uma busca manual e demorada, "caçando" visualmente entre dezenas ou centenas de entradas, o que transforma uma simples tarefa de compra em uma experiência frustrante e ineficiente.
+
+<p align="center">
+  <img width="1206" height="786" alt="devir2" src="https://github.com/user-attachments/assets/5b5f2f7c-5c13-4537-a9ef-232de4599ea8" />
+  <br><em>Figura 2 - Página Principal dos Jogos de Tabuleiro</em>
+</p>
+
+Outro grande empecilho para a usabilidade é o fato de não haver um sistema de busca para um produto específico. A ausência de uma barra de pesquisa força todos os usuários a depender exclusivamente da navegação por listagens, que, como já mencionado, é desorganizada. Se um cliente chega ao site sabendo exatamente o que quer, ele não tem um caminho direto para alcançar seu objetivo. Essa falta de um atalho essencial não apenas aumenta significativamente o tempo para encontrar um item, mas também eleva drasticamente a taxa de desistência, pois os usuários tendem a abandonar a plataforma pelo cansaço.
+
+<p align="center">
+  <img width="1224" height="705" alt="devir3" src="https://github.com/user-attachments/assets/a7c6269b-a9fb-4386-8cc8-df647645346a" />
+  <br><em>Figura 3 - Ordenação dos Produtos</em>
+</p>
 
 
 
