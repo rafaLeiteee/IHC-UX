@@ -128,6 +128,32 @@ Outro grande empecilho para a usabilidade é o fato de não haver um sistema de 
   <br><em>Figura 3 - Ordenação dos Produtos</em>
 </p>
 
+##### Detalhes de Produto Específico
+
+A página principal de um produto específico o detalha em forma de artigo, exibindo imagens do conteúdo do jogo, além de creditar o autor. Essa abordagem, que vai além de uma simples ficha técnica, enriquece a experiência do usuário, permitindo que ele se informe e se envolva com o produto de maneira mais narrativa e visual. 
+
+<p align="center">
+  <img width="719" height="828" alt="devir4" src="https://github.com/user-attachments/assets/a5ab24f6-7037-488d-8e6d-6bf1e41ebbdf" />
+  <br><em>Figura 4 - Detalhamento do Produto 'Transgalactica'</em>
+</p>
+
+<p align="center">
+  <img width="719" height="761" alt="devir5" src="https://github.com/user-attachments/assets/8225e7ef-f1dd-42cb-8b55-5c8b8471f379" />
+  <br><em>Figura 5 - Especificações do Produto 'Transgalactica'</em>
+</p>
+
+
+Esse aspecto é ainda mais valorizado pelo fato de a página exibir conteúdos extras como vídeos, oferecendo uma demonstração dinâmica que complementa perfeitamente as imagens estáticas e o texto. Além disso, a presença de opções para compartilhar nas redes sociais facilita a divulgação orgânica do produto, aumentando seu alcance de forma prática.
+
+<p align="center">
+  <img width="654" height="836" alt="devir6" src="https://github.com/user-attachments/assets/c07fcfbd-85b5-47e3-963f-44b9205e0778" />
+  <br><em>Figura 6 - Vídeos do Produto 'Transgalactica'</em>
+</p>
+
+
+
+
+No entanto, a experiência de usuário é prejudicada por algumas falhas significativas de organização e informação. Apesar de exibir as tags do produto, não há padrão e não há organização nelas, resultando em um sistema de classificação inconsistente e confuso, que pouco ajuda na descoberta de itens relacionados. O ponto negativo mais crítico, porém, é que a página não exibe preço ou locais para adquirir tal produto (qual loja física o contém). Esta omissão fundamental cria uma barreira direta entre a curiosidade gerada pelo conteúdo de qualidade e a conversão em uma venda, frustrando o usuário que, após se interessar pelo produto, não encontra uma maneira clara de adquiri-lo.
 
 
 ### Conclusões:
