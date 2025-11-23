@@ -55,9 +55,9 @@ A proto-persona é proposta com a finalidade de ter suas opções, dificuldades 
 <p align="justify">Enquanto a análise de concorrentes nos mostra o que está sendo feito, o questionário online nos revela o que os usuários pensam e sentem a respeito.
 Este método é extremamente eficaz para validar a proto-persona e a hipótese inicial em escala. Ele permite alcançar um número significativo de pessoas dentro do nosso público-alvo (entusiastas de jogos e RPG) de forma rápida e eficiente, apoiando para:</p>
 
-- **Confirmar a Hipótese:** Perguntar diretamente sobre as dificuldades que os usuários enfrentam ao comprar jogos online, validando se os problemas de "falta de informação" e "dificuldade em encontrar informações" são reais e generalizados.
-- **Validar a Proto-Persona:** Coletar dados demográficos (idade, frequência de jogo), comportamentais (onde costumam comprar, o que mais valorizam em um site) e pessoais (suas motivações e frustrações). Isso transforma a "suposição" de persona em um perfil baseado em dados reais.
-- **Priorizar Funcionalidades:** Perguntar o que eles consideram mais importante em um e-commerce de jogos.
+- **Confirmar a Hipótese:** <p align="justify">Perguntar diretamente sobre as dificuldades que os usuários enfrentam ao comprar jogos online, validando se os problemas de "falta de informação" e "dificuldade em encontrar informações" são reais e generalizados.</p>
+- **Validar a Proto-Persona:** <p align="justify">Coletar dados demográficos (idade, frequência de jogo), comportamentais (onde costumam comprar, o que mais valorizam em um site) e pessoais (suas motivações e frustrações). Isso transforma a "suposição" de persona em um perfil baseado em dados reais.</p>
+- **Priorizar Funcionalidades:** <p align="justify">Perguntar o que eles consideram mais importante em um e-commerce de jogos.</p>
 
 <p align="justify">Desta forma, o uso dos métodos de pesquisa adotados para este projeto fornecem uma ampla cobertura no contexto de levantamento de informações, uma vez que possibilitará o entendimento do que é feito hoje, e de como o usuário final interage com o atual.</p>
 
@@ -73,11 +73,9 @@ Ou seja, o usuário possui dificuldade em entender a experiência que terá com 
 - **Validações da proto-persona:**
 <p align="justify">Dentre as respostas, observou-se que a média da idade das pessoas que já compraram algum jogo de tabuleiro online é de 25 anos, o que confirma nossa hipótese inicial.
 Além disso, ao observar as maiores dificuldades encontradas pelos usuários ao comprar jogos de tabuleiro de forma online, destacam-se duas principais: dificuldade em encontrar o produto desejado (navegabilidade ruim) e a falta de informações claras sobre o produto (componentes e regras).
-Além disso, a pesquisa revelou que a compra dos jogos de tabuleiro se dá por pessoas que se auto consideram casuais, experientes ou entusiastas no assunto, demonstrando que os iniciantes nunca compraram e revelando o caráter de nicho do mercado.</p>
-
+Além disso, a pesquisa revelou que a compra dos jogos de tabuleiro se dá por pessoas que se auto consideram casuais, experientes ou entusiastas no assunto, demonstrando que os iniciantes nunca compraram e revelando o caráter de nicho do mercado.
 Pode-se traçar uma relação entre a dificuldade em entender a experiência que o usuário terá com o jogo pelos anúncios e a ausência de compras por pessoas iniciantes, uma vez que não conhecem sobre o produto anunciado.
-
-Na esfera de acessibilidade, foi relatado também a dificuldade visual em reconhecer os elementos da tela, e sendo sugerido o alto contraste e o aumento das letras.
+Na esfera de acessibilidade, foi relatado também a dificuldade visual em reconhecer os elementos da tela, e sendo sugerido o alto contraste e o aumento das letras.</p>
   
 - **Funcionalidades relevantes:**
 Desta forma, destaca-se como funcionalidades relevantes:
@@ -87,23 +85,23 @@ Desta forma, destaca-se como funcionalidades relevantes:
 
 #### **Análise de sistemas concorrentes:**
 
-##### Contextualização
+- **Contextualização**
 
-Embora os jogos de tabuleiro modernos tenham crescido em popularidade, eles ainda são considerados um produto de nicho. Por esse motivo, é muito raro encontrar uma loja dedicada exclusivamente a eles. Geralmente, esses jogos ou são vendidos em canais de varejo comuns, ou em estabelecimentos especializados em produtos da cultura geek, que agregam itens como RPGs (Dungeons & Dragons), card games (Magic: The Gathering), quadrinhos e mangás, oferecendo um portfólio diversificado para esse público específico.
+<p align="justify">Embora os jogos de tabuleiro modernos tenham crescido em popularidade, eles ainda são considerados um produto de nicho. Por esse motivo, é muito raro encontrar uma loja dedicada exclusivamente a eles. Geralmente, esses jogos ou são vendidos em canais de varejo comuns, ou em estabelecimentos especializados em produtos da cultura geek, que agregam itens como RPGs (Dungeons & Dragons), card games (Magic: The Gathering), quadrinhos e mangás, oferecendo um portfólio diversificado para esse público específico.
 
-Para o estudo de caso desse projeto, escolhemos a Devir como experimento.
+Para o estudo de caso desse projeto, escolhemos a loja de RPG Devir como experimento.</p>
 
-##### Devir
+- **Devir**
 
-Fundada em 1987 em São Paulo, a Devir foca na criação de universos de ficção, tornamos acessíveis movimentos culturais que não existiam fora dos países onde foram originalmente criados; procuramos desenvolver os mercados da imaginação e tudo o que diz respeito à fantasia, aventura, ficção científica, jogos e quadrinhos. Somos uma empresa de edição e distribuição de jogos e de publicações para os mercados português, brasileiro e espanhol. Especializados em traduções e adaptações de muitos produtos diferentes, focamo-nos no chamado entretenimento inteligente: jogos de tabuleiros modernos, jogos de RPG, jogos de cartas colecionáveis e de miniaturas, livros e HQs.
+<p align="justify">Fundada em 1987 em São Paulo, a Devir foca na criação de universos de ficção, tornamos acessíveis movimentos culturais que não existiam fora dos países onde foram originalmente criados; procuramos desenvolver os mercados da imaginação e tudo o que diz respeito à fantasia, aventura, ficção científica, jogos e quadrinhos. Somos uma empresa de edição e distribuição de jogos e de publicações para os mercados português, brasileiro e espanhol. Especializados em traduções e adaptações de muitos produtos diferentes, focamo-nos no chamado entretenimento inteligente: jogos de tabuleiros modernos, jogos de RPG, jogos de cartas colecionáveis e de miniaturas, livros e HQs.</p>
 
-Fonte: https://devir.com.br/quem-somos/
+Retirado de: https://devir.com.br/quem-somos/
 
-##### Acesso
+- **Acesso**
 
-As listagens de produtos se encontravam em um dropdown. Essa abordagem consiste em um menu suspenso que, ao ser clicado, revela uma lista com todas as categorias ou itens disponíveis para o usuário escolher. Embora esta não seja mais a prática mais comum para navegação principal em sites complexos (em muitos e-commerces e sistemas antigos esta prática ainda é utilizada), devido a questões de usabilidade, é uma solução simples e amplamente implementada para organizar a oferta de mercadorias em um espaço limitado da tela.
+<p align="justify">As listagens de produtos se encontravam em um dropdown. Essa abordagem consiste em um menu suspenso que, ao ser clicado, revela uma lista com todas as categorias ou itens disponíveis para o usuário escolher. Embora esta não seja mais a prática mais comum para navegação principal em sites complexos (em muitos e-commerces e sistemas antigos esta prática ainda é utilizada), devido a questões de usabilidade, é uma solução simples e amplamente implementada para organizar a oferta de mercadorias em um espaço limitado da tela.</p>
 
-Um ponto positivo significativo dessa estrutura é que todos os produtos estavam em um único lugar. Isso facilita, em certa medida, o trabalho de gestão e atualização do catálogo. Para lojas com um portfólio pequeno e bem definido, essa centralização torna a navegação direta e descomplicada, permitindo que o cliente visse o escopo completo da oferta sem a necessidade de percorrer várias páginas ou seções diferentes do site.
+<p align="justify">Um ponto positivo significativo dessa estrutura é que todos os produtos estavam em um único lugar. Isso facilita, em certa medida, o trabalho de gestão e atualização do catálogo. Para lojas com um portfólio pequeno e bem definido, essa centralização torna a navegação direta e descomplicada, permitindo que o cliente visse o escopo completo da oferta sem a necessidade de percorrer várias páginas ou seções diferentes do site.</p>
 
 
 <p align="center">
@@ -112,25 +110,25 @@ Um ponto positivo significativo dessa estrutura é que todos os produtos estavam
 </p>
 
 
-##### Listagem de Produtos
+- **Listagem de Produtos**
 
-A navegação é confusa na página principal dos produtos relacionados a jogos de tabuleiro, visto que tais produtos são listados em ordem de lançamento ao site. A escolha por esta organização ao invés de categorizar os itens por tipo, função ou popularidade, exige que o usuário percorra uma sequência interminável de itens novos e antigos sem uma lógica aparente. Para encontrar algo específico, o cliente é forçado a uma busca manual e demorada, "caçando" visualmente entre dezenas ou centenas de entradas, o que transforma uma simples tarefa de compra em uma experiência frustrante e ineficiente.
+<p align="justify">A navegação é confusa na página principal dos produtos relacionados a jogos de tabuleiro, visto que tais produtos são listados em ordem de lançamento ao site. A escolha por esta organização ao invés de categorizar os itens por tipo, função ou popularidade, exige que o usuário percorra uma sequência interminável de itens novos e antigos sem uma lógica aparente. Para encontrar algo específico, o cliente é forçado a uma busca manual e demorada, "caçando" visualmente entre dezenas ou centenas de entradas, o que transforma uma simples tarefa de compra em uma experiência frustrante e ineficiente.</p>
 
 <p align="center">
   <img width="1206" height="786" alt="devir2" src="https://github.com/user-attachments/assets/5b5f2f7c-5c13-4537-a9ef-232de4599ea8" />
   <br><em>Figura 2 - Página Principal dos Jogos de Tabuleiro</em>
 </p>
 
-Outro grande empecilho para a usabilidade é o fato de não haver um sistema de busca para um produto específico. A ausência de uma barra de pesquisa força todos os usuários a depender exclusivamente da navegação por listagens, que, como já mencionado, é desorganizada. Se um cliente chega ao site sabendo exatamente o que quer, ele não tem um caminho direto para alcançar seu objetivo. Essa falta de um atalho essencial não apenas aumenta significativamente o tempo para encontrar um item, mas também eleva drasticamente a taxa de desistência, pois os usuários tendem a abandonar a plataforma pelo cansaço.
+<p align="justify">Outro grande empecilho para a usabilidade é o fato de não haver um sistema de busca para um produto específico. A ausência de uma barra de pesquisa força todos os usuários a depender exclusivamente da navegação por listagens, que, como já mencionado, é desorganizada. Se um cliente chega ao site sabendo exatamente o que quer, ele não tem um caminho direto para alcançar seu objetivo. Essa falta de um atalho essencial não apenas aumenta significativamente o tempo para encontrar um item, mas também eleva drasticamente a taxa de desistência, pois os usuários tendem a abandonar a plataforma pelo cansaço.</p>
 
 <p align="center">
   <img width="1224" height="705" alt="devir3" src="https://github.com/user-attachments/assets/a7c6269b-a9fb-4386-8cc8-df647645346a" />
   <br><em>Figura 3 - Ordenação dos Produtos</em>
 </p>
 
-##### Detalhes de Produto Específico
+- **Detalhes de Produto Específico**
 
-A página principal de um produto específico o detalha em forma de artigo, exibindo imagens do conteúdo do jogo, além de creditar o autor. Essa abordagem, que vai além de uma simples ficha técnica, enriquece a experiência do usuário, permitindo que ele se informe e se envolva com o produto de maneira mais narrativa e visual. 
+<p align="justify">A página principal de um produto específico o detalha em forma de artigo, exibindo imagens do conteúdo do jogo, além de creditar o autor. Essa abordagem, que vai além de uma simples ficha técnica, enriquece a experiência do usuário, permitindo que ele se informe e se envolva com o produto de maneira mais narrativa e visual. </p>
 
 <p align="center">
   <img width="719" height="828" alt="devir4" src="https://github.com/user-attachments/assets/a5ab24f6-7037-488d-8e6d-6bf1e41ebbdf" />
@@ -143,7 +141,7 @@ A página principal de um produto específico o detalha em forma de artigo, exib
 </p>
 
 
-Esse aspecto é ainda mais valorizado pelo fato de a página exibir conteúdos extras como vídeos, oferecendo uma demonstração dinâmica que complementa perfeitamente as imagens estáticas e o texto. Além disso, a presença de opções para compartilhar nas redes sociais facilita a divulgação orgânica do produto, aumentando seu alcance de forma prática.
+<p align="justify">Esse aspecto é ainda mais valorizado pelo fato de a página exibir conteúdos extras como vídeos, oferecendo uma demonstração dinâmica que complementa perfeitamente as imagens estáticas e o texto. Além disso, a presença de opções para compartilhar nas redes sociais facilita a divulgação orgânica do produto, aumentando seu alcance de forma prática.</p>
 
 <p align="center">
   <img width="654" height="836" alt="devir6" src="https://github.com/user-attachments/assets/c07fcfbd-85b5-47e3-963f-44b9205e0778" />
@@ -151,15 +149,13 @@ Esse aspecto é ainda mais valorizado pelo fato de a página exibir conteúdos e
 </p>
 
 
-
-
-No entanto, a experiência de usuário é prejudicada por algumas falhas significativas de organização e informação. Apesar de exibir as tags do produto, não há padrão e não há organização nelas, resultando em um sistema de classificação inconsistente e confuso, que pouco ajuda na descoberta de itens relacionados. O ponto negativo mais crítico, porém, é que a página não exibe preço ou locais para adquirir tal produto (qual loja física o contém). Esta omissão fundamental cria uma barreira direta entre a curiosidade gerada pelo conteúdo de qualidade e a conversão em uma venda, frustrando o usuário que, após se interessar pelo produto, não encontra uma maneira clara de adquiri-lo.
+<p align="justify">No entanto, a experiência de usuário é prejudicada por algumas falhas significativas de organização e informação. Apesar de exibir as tags do produto, não há padrão e não há organização nelas, resultando em um sistema de classificação inconsistente e confuso, que pouco ajuda na descoberta de itens relacionados. O ponto negativo mais crítico, porém, é que a página não exibe preço ou locais para adquirir tal produto (qual loja física o contém). Esta omissão fundamental cria uma barreira direta entre a curiosidade gerada pelo conteúdo de qualidade e a conversão em uma venda, frustrando o usuário que, após se interessar pelo produto, não encontra uma maneira clara de adquiri-lo.</p>
 
 
 ### Conclusões:
-Então, os métodos de pesquisa escolhidos de fato representaram uma visão ampla do produto final a ser desenvolvido: tanto no contexto de funcionalidades para o site, quanto no contexto de quem é o usuário final.
+<p align="justify">Os métodos de pesquisa escolhidos de fato representaram uma visão ampla do produto final a ser desenvolvido: tanto no contexto de funcionalidades para o site, quanto no contexto de quem é o usuário final.
 Ressalta-se que, quanto mais direcionado e divulgado for o questionário, mais relevantes e assertivos são os dados obtidos (das 11 respostas obtidas, 3 são de pessoas que nunca compraram jogos e não demonstraram interesse no assunto).
-Além disso, a criação meticulosa dos campos de resposta para o usuário é fundamental para garantir a qualidade das informações obtidas. Como exemplo disto, uma das datas de nascimento obtidas foi errôneamente colocada no ano atual (representando o aniversário neste ano), tornando impossível a identificação da idade daquele registro.
+Além disso, a criação dos campos de resposta para o usuário é fundamental para garantir a qualidade das informações obtidas. Como exemplo disto, uma das datas de nascimento obtidas foi errôneamente colocada no ano atual (representando o aniversário neste ano), tornando impossível a identificação da idade daquele registro.</p>
 
 #### Stakeholders:
 - Jogador de boardgames (cliente) - acessam o sistema para conferir promoções, novidades, fazer compras e acompanhar entregas.
@@ -167,7 +163,7 @@ Além disso, a criação meticulosa dos campos de resposta para o usuário é fu
 - Desenvolvedores do site - desenvolvem o sistema e acessam para testar as funcionalidades 
 
 #### Descrições de tarefas:
-As tarefas a seguir descrevem os principais objetivos que cada um dos stakeholders identificados buscará alcançar. Elas abrangem tanto o uso da plataforma pelo cliente final quanto as atividades de gestão e manutenção do sistema.
+<p align="justify">As tarefas a seguir descrevem os principais objetivos que cada um dos stakeholders identificados buscará alcançar. Elas abrangem tanto o uso da plataforma pelo cliente final quanto as atividades de gestão e manutenção do sistema.</p>
 
 ##### Tarefas do Cliente (Usuário Final)
 - **Tarefa 1:** Encontrar um jogo para um grupo com gostos específicos
